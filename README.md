@@ -7,11 +7,15 @@
 * 🏀 Hoops and weights enthusiast - because what's data without discipline?
 
 ### My Arsenal
-![My Skills](https://skills.thijs.gg/icons?i=aws,python,sql,hive,ml,pytorch,pandas,git,linux)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Bert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bertmclee&show_icons=true&theme=radical)
-
-![Bert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bertmclee&layout=compact&theme=radical)
 
 ### Spotlight Projects
 
@@ -26,3 +30,8 @@
 ### Let's Connect
 * 🌐 [LinkedIn - Bert Lee](https://www.linkedin.com/in/bertmclee/)
 * 📧 [Send a Signal](mailto:muchia272@gmail.com)
+
+
+
+
+
