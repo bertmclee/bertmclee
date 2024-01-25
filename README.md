@@ -1,10 +1,10 @@
 ## Greetings! 👾 I'm Bert Lee, a Data Science Maverick at Yale!
 
 ### Who am I?
-* 📊 Yale MSDS candidate specializing in ML/DL/NLP and Business/Content Analytics with a focus on Big Data.
-* 🌐 Data Scientist with 3 years' professional experience at leading companies like Disney+ and DBS Bank.
-* 🚀 Actively seeking full-time roles from May 2024 in data science and analytics.
-* 🏋️‍♂️ Passionate about basketball and weightlifting, I find leadership as crucial in professional and personal growth.
+* 🎓 Pursuing the zenith of data science with a Master's at Yale. I turn data into decisions and insights into action.
+* 📈 From Disney+ magic to DBS Bank's strategic insights, I'm the maestro of data-driven stories.
+* 🚀 Eyeing roles from May 2024 where I can orchestrate data into breakthrough business symphonies.
+* 🏀 Baller by day, weightlifter by night. Off-court, I crunch numbers and pump iron with equal gusto.
 
 ### My Arsenal
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -19,7 +19,7 @@
 
 ### Spotlight Projects
 
-* 🛡️ **GGTAN: Advanced Fraud Detection in Financial Transactions** <br>
+* 🛡️ **GGTAN: Advanced Fraud Detection with Graph Neural Network in Financial Transactions** <br>
   Enhanced GTAN with GAT for fraud detection, increasing F1-Score by 6.9\% and AUC by 8.0% - achieving SOTA performance. <br>
 [Github Repository](https://github.com/bertmclee/antifraud) | [Project Report](https://drive.google.com/file/d/1P_loGSXID4GVcWVcSwu6gA3n2Bqn8ElX/view?usp=sharing)
 
