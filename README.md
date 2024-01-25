@@ -1,9 +1,9 @@
 ## Greetings! 👾 I'm Bert Lee, a Data Science Maverick at Yale!
 
 ### Who am I?
-* 🎓 Pursuing the zenith of data science with a Master's at Yale. I turn data into decisions and insights into action.
-* 📈 From Disney+ magic to DBS Bank's strategic insights, I'm the maestro of data-driven stories.
-* 🚀 Eyeing roles from May 2024 where I can orchestrate data into breakthrough business symphonies.
+* 🎓 Pursuing the zenith of data science with a Master's at **Yale**. I turn data into decisions and insights into action.
+* 📈 From **Disney+** magic to **DBS Bank**'s strategic insights, I'm the maestro of data-driven stories.
+* 🚀 Eyeing roles from **May 2024** where I can orchestrate data into breakthrough business symphonies.
 * 🏀 Baller by day, weightlifter by night. Off-court, I crunch numbers and pump iron with equal gusto.
 
 ### My Arsenal
