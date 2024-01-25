@@ -1,10 +1,10 @@
 ## Greetings! 👾 I'm Bert Lee, a Data Science Maverick at Yale!
 
 ### Who am I?
-* 🎓 Pursuing the zenith of data science with a Master's at Yale. I turn data into decisions and insights into action.
-* 📈 Proven track record at Disney+ & DBS Bank, transforming numbers into narratives.
-* 🚀 On the lookout for opportunities where data storytelling and machine learning meet post-May 2024.
-* 🏀 Hoops and weights enthusiast - because what's data without discipline?
+* 📊 Yale MSDS candidate specializing in ML/DL/NLP and Business/Content Analytics with a focus on Big Data.
+* 🌐 Data Scientist with 3 years' professional experience at leading companies like Disney+ and DBS Bank.
+* 🚀 Actively seeking full-time roles from May 2024 in data science and analytics.
+* 🏋️‍♂️ Passionate about basketball and weightlifting, I find leadership as crucial in professional and personal growth.
 
 ### My Arsenal
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
